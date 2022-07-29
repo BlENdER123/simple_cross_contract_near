@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Desktop\near\contract-that-deploys-contracts-rs\contract\target\wasm32-unknown-unknown\release\build\typenum-7f85ded35965dbe2\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Desktop\near\contract-that-deploys-contracts-rs\contract\target\wasm32-unknown-unknown\release\build\typenum-7f85ded35965dbe2\out\op.rs
